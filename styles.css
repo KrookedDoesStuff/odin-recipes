@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+    font-size: 40px;
+    font-weight: bolder;
+    color: red;
+}
+
+li{
+    color: yellow;
+}
